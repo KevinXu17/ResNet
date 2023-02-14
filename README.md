@@ -1,3 +1,2 @@
 # ResNet
 
-![Screenshot](ResNetStru.png)
